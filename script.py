@@ -4,7 +4,7 @@ import traceback
 import sys
 
 PORT = 9090
-DIRECTORY = "output"
+DIRECTORY = "."
 
 
 class Handler(http.server.SimpleHTTPRequestHandler):
