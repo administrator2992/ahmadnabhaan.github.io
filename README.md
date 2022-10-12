@@ -1,2 +1,2 @@
 Personal Website
-[Resume](lzrpotato.github.io/resume)
+[Resume](resume)
